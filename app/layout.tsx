@@ -11,7 +11,7 @@ const geist = Geist({
 
 export const metadata: Metadata = {
   title: "Altin's Portofolio",
-
+};
 
 export default function RootLayout({
   children,
