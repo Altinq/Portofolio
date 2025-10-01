@@ -10,8 +10,8 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Altin Portofolio",
-};
+  title: "Altin's Portofolio",
+
 
 export default function RootLayout({
   children,
